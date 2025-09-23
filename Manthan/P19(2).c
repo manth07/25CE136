@@ -10,13 +10,14 @@ void main()
         for(j=1;j<=n*2-1;j++)
         {
             if(j==i || j==n*2-i)
-                printf("%d",j);
+                printf("%d ",j);
             else if(i==1)
-                printf("%d",j);
+                printf("%d ",j);
             else
-                printf(" ");
+                printf("  ");
 
         }
         printf("\n");
     }
 }
+
