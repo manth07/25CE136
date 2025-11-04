@@ -24,7 +24,7 @@ int main() {
     int i, found;
 
     do {
-        printf("\n===== CHARUSAT Sports Team Management =====\n");
+        printf("\n CHARUSAT Sports Team Management \n");
         printf("1. Add New Team\n");
         printf("2. Search for a Team\n");
         printf("3. Display All Teams\n");
