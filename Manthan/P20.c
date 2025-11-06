@@ -17,5 +17,8 @@ void main()
 
     expected=(n*(n+1))/2;
     missing=expected-present;
-    printf("The missing ID is: %d",missing);
+    printf("The missing ID is: %d\n",missing);
+    printf("\nName: Manthan Vasoya\n");
+    printf("ID: 25CE136");
 }
+
