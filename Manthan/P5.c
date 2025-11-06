@@ -25,4 +25,8 @@ int main()
 
     tilw=tw-tlw;
     printf("Total Illiterate Women: %.0lf\n",tilw);
+    printf("\nName: Manthan Vasoya\n");
+    printf("ID: 25CE136");
+    return 0;
 }
+
