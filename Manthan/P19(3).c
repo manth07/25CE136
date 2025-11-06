@@ -27,5 +27,7 @@ void main()
             printf("%d ",j);
         printf("\n");
     }
-
+printf("\nName: Manthan Vasoya\n");
+printf("ID: 25CE136");
 }
+
