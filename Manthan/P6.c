@@ -7,5 +7,9 @@ int main()
     scanf("%l f",&c);
     f=(c*9/5)+32;
     printf("Temperature in Fahrenheit is: %.2lf",f);
+    printf("\nName: Manthan Vasoya\n");
+    printf("ID: 25CE136");
+    return 0;
 
 }
+
