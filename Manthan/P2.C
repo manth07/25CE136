@@ -16,9 +16,11 @@ void main()
 
    perimeter=2*(length+breadth);
    printf("Your perimeter is %d",perimeter);
+   
+   printf("\nName: Manthan Vasoya\n");
+   printf("ID: 25CE136");
    getch();
-printf("\nName: Manthan Vasoya\n");
-printf("ID: 25CE136");
 }
+
 
 
