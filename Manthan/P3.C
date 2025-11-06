@@ -45,6 +45,9 @@ void main()
      {
       printf("You are Obese");
      }
+printf("\nName: Manthan Vasoya\n");
+    printf("ID: 25CE136");
      getch();
 
 }
+
