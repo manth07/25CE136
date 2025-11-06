@@ -9,5 +9,11 @@ int main()
         (a>89)?printf("Your grade is A"):(a<90&&a>79)?printf("Your grade is B"):(a<80&&a>69)?printf("Your grade is C"):(a<70&&a>59)?printf("Your grade is D"):printf("You failed");
     }
    else
-    printf("Invalid marks");
+    {
+        printf("Invalid marks");
+    }
+    printf("\nName: Manthan Vasoya\n");
+    printf("ID: 25CE136");
+    return 0;
 }
+
