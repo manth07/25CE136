@@ -48,6 +48,8 @@ int main() {
 
     printf("\nYour total bill is: ₹%d\n", total_bill);
     printf("Thank you for visiting Foodies Restaurant!\n");
-
+    printf("\nName: Manthan Vasoya\n");
+    printf("ID: 25CE136");
     return 0;
 }
+
