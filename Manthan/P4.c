@@ -78,7 +78,10 @@ int main()
     printf("Size: %zu bytes\n", sizeof(size_t));
     printf("Max value: %zu\n\n", (size_t) -1);
 
-
+printf("\nName: Manthan Vasoya\n");
+    printf("ID: 25CE136");
+    return 0;
 
 
 }
+
