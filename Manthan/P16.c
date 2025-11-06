@@ -47,4 +47,8 @@ int main()
             printf("Please choose number of sticks between 1 to 4");
         }
     }
+    printf("\nName: Manthan Vasoya\n");
+    printf("ID: 25CE136");
+    return 0;
 }
+
