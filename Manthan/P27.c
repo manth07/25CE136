@@ -26,6 +26,8 @@ int main() {
         }
         printf("Month %d: Rs. %d\n", i, next);
     }
-
+printf("\nName: Manthan Vasoya\n");
+    printf("ID: 25CE136");
     return 0;
 }
+
