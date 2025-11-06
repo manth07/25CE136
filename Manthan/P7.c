@@ -27,4 +27,7 @@ int main()
       printf("You are DEAD");
       return 0;
     }
+  printf("\nName: Manthan Vasoya\n");
+    printf("ID: 25CE136");
+  return 0;
 }
