@@ -11,4 +11,8 @@ int main()
         sleep(1);
     }
     printf("Marathon is over");
+    printf("\nName: Manthan Vasoya\n");
+    printf("ID: 25CE136");
+    return 0;
 }
+
