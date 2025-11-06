@@ -36,7 +36,9 @@ int main()
     {
         printf("The sides do not form a valid triangle.\n");
     }
-
+printf("\nName: Manthan Vasoya\n");
+    printf("ID: 25CE136");
     return 0;
 }
+
 
