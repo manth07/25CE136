@@ -77,6 +77,8 @@ int main() {
         else
             printf("Your fine is: %d Rs\n", fine);
     }
-
+printf("\nName: Manthan Vasoya\n");
+    printf("ID: 25CE136");
     return 0;
 }
+
