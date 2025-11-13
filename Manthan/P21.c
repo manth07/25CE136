@@ -26,5 +26,9 @@ int main() {
     printf("Total even numbers are: %d\n", evenC);
     printf("Total odd numbers are: %d\n", oddC);
 
+    printf("\nName: Manthan Vasoya\n");
+    printf("ID: 25CE136");
+
     return 0;
 }
+
