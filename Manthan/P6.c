@@ -4,7 +4,7 @@ int main()
 {
     double c,f;
     printf("Enter the temperature in celsius: ");
-    scanf("%l f",&c);
+    scanf("%lf",&c);
     f=(c*9/5)+32;
     printf("Temperature in Fahrenheit is: %.2lf",f);
     printf("\nName: Manthan Vasoya\n");
@@ -12,4 +12,5 @@ int main()
     return 0;
 
 }
+
 
