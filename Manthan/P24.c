@@ -6,7 +6,7 @@ int main()
 {
     int i,len,len2,ta,fl;
     char str[200],str2[200],ch='y';
-    printf("Enter your jot down note here:");
+    printf("Enter your note down  here:");
     gets(str);
     while(ch=='y')
     {
@@ -121,3 +121,4 @@ int main()
 
     return 0;
 }
+
