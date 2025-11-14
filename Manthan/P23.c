@@ -1,10 +1,18 @@
+
 #include <stdio.h>
 
 int main()
 {
+    int n;
+    printf("Enter number of days: ");
+    scanf("%d",&n);
+    int prices[n];
 
-    int prices[] = {100, 180, 260,310, 40, 535,695};
-    int n = sizeof(prices) / sizeof(prices[0]);
+    for(int i=0;i<n;i++)
+    {
+        printf("Enter price on day %d: ",i+1);
+        scanf("%d",&prices[i]);
+    }
 
     int minPrice = prices[0];
     int maxProfit = 0;
