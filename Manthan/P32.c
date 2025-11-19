@@ -5,7 +5,7 @@ void main()
     FILE *f,*t;
     char ch;
 
-    f=fopen("data.txt","r");
+    f=fopen("Note.txt","r");
     if(f==NULL)
         printf("cant't open file");
     else
@@ -25,5 +25,6 @@ void main()
     printf("\nName: Manthan Vasoya\n");
     printf("ID: 25CE136");
 }
+
 
 
