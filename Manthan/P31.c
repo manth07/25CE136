@@ -17,4 +17,7 @@ void main()
     name = tname;
     scanf("%s",name);
     printf("your new name is : %s",name);
+    printf("\nName: Manthan Vasoya\n");
+    printf("ID: 25CE136");
 }
+
